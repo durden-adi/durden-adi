@@ -1,4 +1,5 @@
-### Hi there 👋
+My personal portfolio.
+Have a look here, https://durden-adi.github.io/durden-adi/
 
 <!--
 **durden-adi/durden-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
